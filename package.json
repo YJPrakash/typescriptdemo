@@ -2,7 +2,13 @@
   "name": "bfs2mr.run",
   "version": "0.0.0",
   "private": true,
+  "main": "index.ts",
   "dependencies": {
-    "moment": "2.24.0"
+    "@angular/common": "^8.2.11",
+    "@angular/core": "^8.2.11",
+    "express": "^4.17.1",
+    "moment": "latest",
+    "rxjs": "^6.4.0",
+    "zone.js": "~0.9.1"
   }
 }
