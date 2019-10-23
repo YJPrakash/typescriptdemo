@@ -1,0 +1,8 @@
+{
+  "name": "bfs2mr.run",
+  "version": "0.0.0",
+  "private": true,
+  "dependencies": {
+    "moment": "2.24.0"
+  }
+}
